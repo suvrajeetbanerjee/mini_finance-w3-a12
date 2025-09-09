@@ -224,3 +224,9 @@ See you in the **LinkedIn network!** 🎉
 Assignment Note
 
 This project demonstrates Git operations like clone, pull, push, and creating a Pull Request—a hands-on Mini-Finance tool.
+
+---
+
+## 🏆 What changed
+- Day 1: Footer placeholder implemented and deployed.
+- Day 2: Footer date made dynamic (Text Added Only - No JS Used to obtain the result so as to make to date Dymanic)
